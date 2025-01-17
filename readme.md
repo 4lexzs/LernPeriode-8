@@ -10,8 +10,8 @@
 
 ## 17.01
 
-- [ ] LB 450 weiter arbeiten
-- [ ] 
+- [ ] HTML Datei für meine Webseite
+- [ ] CSS Datei 
 
 ✍️ 
 
