@@ -4,9 +4,7 @@
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Welches der Module 346, 450, 294 scheint Ihnen besonders wichtig? Wo brauchen Sie am meisten Übung?
-3. Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen, um es Ihrer Bewerbung hinzuzufügen?
+Ich möchte eine persönliche Webseite erstellen, auf der ich mich vorstellen und mehr über meine Interessen, Fähigkeiten und Ziele erzählen kann. Auf der Webseite werde ich auch Links zu meinen Social-Media-Profilen einfügen, damit man mich leicht kontaktieren kann.
 
 ## 17.01
 
