@@ -13,7 +13,7 @@ Ich möchte eine persönliche Webseite erstellen, auf der ich mich vorstellen un
 
 ✍️ 
 
-## 24.02
+## 24.01
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
